@@ -1,0 +1,9 @@
+C:\Users\Lenovo\onedrive\documents\visual studio 2010\Projects\BahanAjar\BahanAjar\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Lenovo\onedrive\documents\visual studio 2010\Projects\BahanAjar\BahanAjar\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lenovo\onedrive\documents\visual studio 2010\Projects\BahanAjar\BahanAjar\obj\x86\Debug\BahanAjar.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\onedrive\documents\visual studio 2010\Projects\BahanAjar\BahanAjar\bin\Debug\BahanAjar.exe
+C:\Users\Lenovo\onedrive\documents\visual studio 2010\Projects\BahanAjar\BahanAjar\bin\Debug\BahanAjar.pdb
+C:\Users\Lenovo\onedrive\documents\visual studio 2010\Projects\BahanAjar\BahanAjar\bin\Debug\BahanAjar.xml
+C:\Users\Lenovo\onedrive\documents\visual studio 2010\Projects\BahanAjar\BahanAjar\obj\x86\Debug\BahanAjar.exe
+C:\Users\Lenovo\onedrive\documents\visual studio 2010\Projects\BahanAjar\BahanAjar\obj\x86\Debug\BahanAjar.xml
+C:\Users\Lenovo\onedrive\documents\visual studio 2010\Projects\BahanAjar\BahanAjar\obj\x86\Debug\BahanAjar.pdb
